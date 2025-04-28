@@ -86,3 +86,5 @@ fgr() {
           --preview='git -C {} log -n3 --oneline'
 }
 
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh

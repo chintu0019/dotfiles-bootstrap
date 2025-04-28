@@ -1,0 +1,3 @@
+# Toggle Kitty floating window
+"bash ~/.local/bin/toggle_kitty.sh"
+    Alt+Control + t
